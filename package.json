@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chart.js": "^4.4.3",
+    "videojs-watermark": "^2.0.0"
+  },
+  "devDependencies": {
+    "video.js": "^8.16.1"
+  }
+}
